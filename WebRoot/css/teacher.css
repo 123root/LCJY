@@ -1,0 +1,32 @@
+html{
+	background: white;
+}
+body{
+	margin: 0;
+	padding: 0;
+}
+.box1{
+	width: 100%;
+	height: 250px;
+}
+.box2{
+	width: 100%;
+	height: 500px;
+}
+.teacher1{
+	border-color: rgb(242,242,242);
+	border: 1px none #F2F2F2;
+	word-break: normal;
+	padding: 1px;
+	background-color: transparent;
+	bselect:top,right,bottom,left;
+}
+.teacher1_1{
+	width: 280px;
+}
+.teacher1_2{
+	width: 71px;
+}
+.teacher1_3{
+	width: 69px;
+}

@@ -1,0 +1,26 @@
+html{
+	background: black;
+}
+body{
+	margin: 0;
+	padding: 0;
+}
+.box1{
+	width: 100%;
+	height: 250px;
+}
+.box2{
+	width: 100%;
+	height: 500px;
+}
+.teacher1{
+	border-color: rgb(242,242,242);
+	border: 1px none #F2F2F2;
+	padding: 1px;
+	background-color: transparent;
+}
+
+td{
+	text-align: center;
+
+}
